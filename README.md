@@ -1,2 +1,5 @@
 # hello-name
-just trying sth 
+
+Hi There!
+
+Im really beginner on this issues, tryna' to encode bots and improve myself on software .
